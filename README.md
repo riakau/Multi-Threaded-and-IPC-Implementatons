@@ -16,9 +16,9 @@ This project is designed to demonstrate **multi-threading**, **deadlock detectio
 - C++ Complier (g++)
 
 ## **Installation**
--**Open Linux based 
--**Clone the repository: git clone https://github.com/riakau/Multi-Threaded-and-IPC-Implementatons.git
--**Change Directory: cd Multi-Threaded-and-IPC-Implementatons
+-Open Linux based 
+-Clone the repository: git clone https://github.com/riakau/Multi-Threaded-and-IPC-Implementatons.git
+-Change Directory: cd Multi-Threaded-and-IPC-Implementatons
 
 ## **Know Problems**
 - **Printing of Banking threads activiy is difficult to read
